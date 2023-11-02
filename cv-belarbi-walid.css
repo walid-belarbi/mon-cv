@@ -1,0 +1,21 @@
+h1 {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-align: center;
+    /* les tailles de polices doivent être en REM 1rem=16px */
+    font-size: 2.5rem;
+    text-shadow: -20px 15px 9px rgba(0, 0, 0, 0.252);
+    text-decoration: underline;
+    color: antiquewhite;
+   
+}
+body {
+    background: url(./images/img.jpg) center/cover;
+    min-height: 100vh;
+}
+
+
+p {
+    color: antiquewhite;
+    text-align: center;
+}
